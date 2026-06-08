@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "chat bot tutor de algebra/1.0.0": {
+        "runtime": {
+          "chat bot tutor de algebra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chat bot tutor de algebra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

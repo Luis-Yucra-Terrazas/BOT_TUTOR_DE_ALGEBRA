@@ -1,0 +1,14 @@
+C:\Users\VICTUS\source\repos\chat bot tutor de algebra\chat bot tutor de algebra\bin\Debug\net10.0\chat bot tutor de algebra.exe
+C:\Users\VICTUS\source\repos\chat bot tutor de algebra\chat bot tutor de algebra\bin\Debug\net10.0\chat bot tutor de algebra.deps.json
+C:\Users\VICTUS\source\repos\chat bot tutor de algebra\chat bot tutor de algebra\bin\Debug\net10.0\chat bot tutor de algebra.runtimeconfig.json
+C:\Users\VICTUS\source\repos\chat bot tutor de algebra\chat bot tutor de algebra\bin\Debug\net10.0\chat bot tutor de algebra.dll
+C:\Users\VICTUS\source\repos\chat bot tutor de algebra\chat bot tutor de algebra\bin\Debug\net10.0\chat bot tutor de algebra.pdb
+C:\Users\VICTUS\source\repos\chat bot tutor de algebra\chat bot tutor de algebra\obj\Debug\net10.0\chat bot tutor de algebra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\source\repos\chat bot tutor de algebra\chat bot tutor de algebra\obj\Debug\net10.0\chat bot tutor de algebra.AssemblyInfoInputs.cache
+C:\Users\VICTUS\source\repos\chat bot tutor de algebra\chat bot tutor de algebra\obj\Debug\net10.0\chat bot tutor de algebra.AssemblyInfo.cs
+C:\Users\VICTUS\source\repos\chat bot tutor de algebra\chat bot tutor de algebra\obj\Debug\net10.0\chat bot tutor de algebra.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\source\repos\chat bot tutor de algebra\chat bot tutor de algebra\obj\Debug\net10.0\chat bot tutor de algebra.dll
+C:\Users\VICTUS\source\repos\chat bot tutor de algebra\chat bot tutor de algebra\obj\Debug\net10.0\refint\chat bot tutor de algebra.dll
+C:\Users\VICTUS\source\repos\chat bot tutor de algebra\chat bot tutor de algebra\obj\Debug\net10.0\chat bot tutor de algebra.pdb
+C:\Users\VICTUS\source\repos\chat bot tutor de algebra\chat bot tutor de algebra\obj\Debug\net10.0\chat bot tutor de algebra.genruntimeconfig.cache
+C:\Users\VICTUS\source\repos\chat bot tutor de algebra\chat bot tutor de algebra\obj\Debug\net10.0\ref\chat bot tutor de algebra.dll
