@@ -6,4 +6,10 @@ A nivel funcional, el sistema se enfoca en los siguientes aspectos:
  * Dominio de conceptos clave: Funciona como un punto de apoyo para repasar temas fundamentales del álgebra, aclarando dudas en tiempo real y adaptándose al ritmo de estudio de cada persona.
  * Soporte al aprendizaje autónomo: Al estar disponible de manera constante, actúa como un asesor de bolsillo que refuerza lo aprendido en clase y ayuda a resolver ejercicios complejos fuera del horario escolar.
 Desde la perspectiva del desarrollo, la aplicación cuenta con un respaldo técnico estructurado. La integración de una base de datos local le permite almacenar configuraciones o registrar el avance de las lecciones, mientras que el control de versiones formal en GitHub asegura que el código sea limpio, organizado y escalable para futuras mejoras, como la adición de nuevos módulos matemáticos o interfaces más avanzadas.
-Este bot por ahora esta limitado en enseña 3 temas: algebra basica, triangulo de pascal y problemas de algebra
+Vension 2.0:
+Esta vension se vera mas visual el bot con botones, etiquetas y mas en C#, se cambio lo siguiente:
+ * El programa en Consola de la vension 1.0, se volvera en Windows Forms avanzado (con diseño mas bonito)
+ * Se mejora el comportamiento del bot en responde
+ * Se mejora en enseñar los ejercicios de facil a dicifil (MAXIMO 10 ejercicios), sin olvidar en da consejos
+ * El bot esta mas ordenado en POO en su comportamiento
+La vension 2.0 se vuelve un programa mas complejo y profundo en uso de POO en el orden de responder y ayuda en dar ejercicios mas faciles e dificiles. 
