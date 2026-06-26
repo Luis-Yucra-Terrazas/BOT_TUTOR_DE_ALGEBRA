@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\obj\Debug\net10.0-windows\Bot_Tutor_profesional.Form1.resources
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\obj\Debug\net10.0-windows\Bot_Tutor_profesional.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\obj\Debug\net10.0-windows\Bot Tutor profesional.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\obj\Debug\net10.0-windows\Bot Tutor profesional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\obj\Debug\net10.0-windows\Bot Tutor profesional.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\obj\Debug\net10.0-windows\Bot Tutor profesional.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\obj\Debug\net10.0-windows\Bot Tutor profesional.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\bin\Debug\net10.0-windows\Bot Tutor profesional.exe
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\bin\Debug\net10.0-windows\Bot Tutor profesional.deps.json
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\bin\Debug\net10.0-windows\Bot Tutor profesional.runtimeconfig.json
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\bin\Debug\net10.0-windows\Bot Tutor profesional.dll
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\bin\Debug\net10.0-windows\Bot Tutor profesional.pdb
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\obj\Debug\net10.0-windows\Bot Tutor profesional.dll
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\obj\Debug\net10.0-windows\refint\Bot Tutor profesional.dll
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\obj\Debug\net10.0-windows\Bot Tutor profesional.pdb
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\obj\Debug\net10.0-windows\Bot Tutor profesional.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Proyectos U\programas\Bot Tutor profesional\Bot Tutor profesional\obj\Debug\net10.0-windows\ref\Bot Tutor profesional.dll
